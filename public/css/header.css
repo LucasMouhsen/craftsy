@@ -1,0 +1,14 @@
+header{
+    background-color: var(--color-rojo);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px 5%;
+    height: 180px;
+    margin-bottom: 20px;
+}
+
+header a{
+    text-transform: uppercase;
+    color: #fff;
+}
