@@ -14,7 +14,9 @@ li{
 
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #535353;
+    color: #2e2f34;
+    max-width: 1140px;
+    margin: 0 auto;
 }
 
 :root{
